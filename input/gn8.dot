@@ -1,0 +1,12 @@
+// THIS IS COMMENT: example undirected graph with edge weight
+graph gn8 {
+        v0 -- v1 [label = "7"];
+        v0 -- v3 [label = "2"];
+        v1 -- v2 [label = "5"];
+        v1 -- v7 [label = "4"];
+        v3 -- v4 [label = "3"];
+        v2 -- v5 [label = "1"];
+        v2 -- v6 [label = "6"];
+        v4 -- v6 [label = "7"];
+}
+// from v4 to v0
